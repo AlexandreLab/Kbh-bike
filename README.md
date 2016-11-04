@@ -1,2 +1,2 @@
 # Kbh-bike-data
-Analysis of bike data for Kbh in 2014. On going.
+Quick analysis of bike data for Kbh in 2014. Please use nbviewer to see the graphs. 
